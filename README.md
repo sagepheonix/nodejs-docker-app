@@ -17,4 +17,4 @@ A simple Node.js application deployed on an AWS Linux server using Docker and Do
 ## Docker Build
 
 ```bash
-docker build -t YOUR-DOCKERHUB-USERNAME/nodejs-app:1.0 .
+docker build -t sagepheonix/nodejs-app:1.0 .
